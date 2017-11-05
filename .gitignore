@@ -1,0 +1,5 @@
+bin/ 
+obj/ 
+ValorNAV_deploy/ 
+*.dll 
+*.csv
